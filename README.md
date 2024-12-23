@@ -1,5 +1,5 @@
 # viem_tutorial
-
+This is the source code of this [Youtube video](https://youtu.be/UquwLw0kRnQ). 
 # Setup
 In the root project create a file `.env` with:
 ```
